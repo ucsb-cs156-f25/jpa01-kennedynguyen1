@@ -1,6 +1,6 @@
 # jpa01-kennedynguyen1
 
-Deployed at: https://jpa01-kennedynguyen1.dokku-05.cs.ucsb.edu/
+Deployed at: https://jpa01-kennedynguyen1.dokku-05.cs.ucsb.edu
 
 
 # About this repo
